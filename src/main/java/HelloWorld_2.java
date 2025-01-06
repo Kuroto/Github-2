@@ -25,4 +25,10 @@ public class HelloWorld_2
         System.out.println("This function was created in the master branch. Merge conflict exercise.");
         System.out.println("Adding this from Master, now changing it from the master.");
     }
+
+    public void mergeConflict_Created_in_Feature_branch()
+    {
+        System.out.println("This function was created in the feature-branch. Merge conflict exercise.");
+        System.out.println("Added this from the feature-branch. Now changing it as well from the feature.");
+    }
 }
