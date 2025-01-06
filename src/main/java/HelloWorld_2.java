@@ -23,5 +23,6 @@ public class HelloWorld_2
     public void mergeConflict_Created_in_Master_branch()
     {
         System.out.println("This function was created in the master branch. Merge conflict exercise.");
+        System.out.println("Adding this from Master.");
     }
 }
