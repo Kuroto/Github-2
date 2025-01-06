@@ -4,4 +4,10 @@ public class HelloWorld_2
     {
         System.out.println("This was repo was created in Github then used the URL to add it via IntelliJ.");
     }
+
+    public void awesomeFunction()
+    {
+        System.out.println("This is the awesome function. It does what you want. Almost... apart from that it" +
+                " doesn't do anything. This means the possibilities are endless! Imagine that!");
+    }
 }
