@@ -14,5 +14,6 @@ public class HelloWorld_2
     public void mergeConflict_Created_in_Feature_branch()
     {
         System.out.println("This function was created in the feature-branch. Merge conflict exercise.");
+        System.out.println("Added this from the feature-branch.");
     }
 }
