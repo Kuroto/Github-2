@@ -10,4 +10,9 @@ public class HelloWorld_2
         System.out.println("This is the awesome function. It does what you want. Almost... apart from that it" +
                 " doesn't do anything. This means the possibilities are endless! Imagine that!");
     }
+
+    public void mergeConflict_Created_in_Feature_branch()
+    {
+        System.out.println("This function was created in the feature-branch. Merge conflict exercise.");
+    }
 }
